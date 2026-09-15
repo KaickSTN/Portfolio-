@@ -32,6 +32,6 @@ script.js
 img/
 
 Contato
-LinkedIn: https://www.linkedin.com/in/kaick-almeida-da-silva-956547226/
-GitHub: https://github.com/KaickSTN
-E-mail: kaick04silva@gmail.com
+- LinkedIn: https://www.linkedin.com/in/kaick-almeida-da-silva-956547226/
+- GitHub: https://github.com/KaickSTN
+- E-mail: kaick04silva@gmail.com
