@@ -17,19 +17,19 @@ Seção de contato com redirecionamento para e-mail e LinkedIn
 Botão de download do currículo em PDF
 
 
-- Tecnologias utilizadas:
+Tecnologias utilizadas:
 
-HTML5
-CSS3 (Flexbox e Grid)
-JavaScript
-Font Awesome para ícones
+- HTML5
+- CSS3 (Flexbox e Grid)
+- JavaScript
+- Font Awesome para ícones
 
 Estrutura do projeto
 
-index.html
-style.css
-script.js
-img/
+- index.html
+- style.css
+- script.js
+- img/
 
 Contato
 - LinkedIn: https://www.linkedin.com/in/kaick-almeida-da-silva-956547226/
