@@ -18,7 +18,6 @@ Botão de download do currículo em PDF
 
 
 - Tecnologias utilizadas
-- 
 HTML5
 CSS3 (Flexbox e Grid)
 JavaScript
